@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+}
+
+.nav {
+    align-content: center;
+}
+
+.navlist {
+    list-style: none;
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+}
+
+.navlink {
+    color: inherit;
+    text-decoration: none;
+}
+
+.activelink {
+    font-weight: bold;
+}
+
+.mainlogo {
+    width: 250px;
+    margin: 0.5rem;
+}
